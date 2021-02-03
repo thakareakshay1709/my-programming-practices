@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5b7f028-8b46-41e0-96b1-88e407b8b053" name="Default Changelist" comment="Python hacker rank solution for captains room">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_days_of_Statistics/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HackerRankPythonPractices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackerRankPythonPractices.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="9071460e-089a-4ef1-85ce-369a25e30a50" />
+  <component name="ProjectId" id="1bJEtrKJqGYDoUahNqpVICsIXM2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Internships/Unitek/dev/myfuturenow" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="Docker" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.Check_Subset">
+    <configuration name="Check_Subset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_sets/Check_Subset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_itertools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_itertools/Combinations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HackerRankPythonPractices" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\ProgramData\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Merge_the_tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_strings" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_strings/Merge_the_tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PolarCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_math" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_math/PolarCoordinates.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_collections" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_collections/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.HackerRankPythonPractices" />
+      <item itemvalue="Python.Test" />
+      <item itemvalue="Python.PolarCoordinates" />
+      <item itemvalue="Python.Combinations" />
+      <item itemvalue="Python.Merge_the_tools" />
+      <item itemvalue="Python.Check_Subset" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Check_Subset" />
+        <item itemvalue="Python.Merge_the_tools" />
+        <item itemvalue="Python.Combinations" />
+        <item itemvalue="Python.PolarCoordinates" />
+        <item itemvalue="Python.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\akshaythakare\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5b7f028-8b46-41e0-96b1-88e407b8b053" name="Default Changelist" comment="" />
+      <created>1588342013466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588342013466</updated>
+      <workItem from="1588342017586" duration="2548000" />
+      <workItem from="1588426407976" duration="9248000" />
+      <workItem from="1588602554405" duration="7168000" />
+      <workItem from="1588676943682" duration="3982000" />
+      <workItem from="1588783416568" duration="9103000" />
+      <workItem from="1588939166747" duration="4335000" />
+      <workItem from="1589011541809" duration="3086000" />
+      <workItem from="1589233509129" duration="2415000" />
+      <workItem from="1589292622441" duration="3841000" />
+      <workItem from="1589400600854" duration="1773000" />
+      <workItem from="1589486499386" duration="13650000" />
+      <workItem from="1589653423396" duration="9000" />
+      <workItem from="1589730283259" duration="642000" />
+      <workItem from="1589732686619" duration="599000" />
+      <workItem from="1593037791203" duration="798000" />
+      <workItem from="1593124030320" duration="2724000" />
+      <workItem from="1593428998168" duration="1312000" />
+      <workItem from="1593513901706" duration="340000" />
+      <workItem from="1593526015346" duration="96000" />
+      <workItem from="1601125229456" duration="706000" />
+      <workItem from="1601331062541" duration="688000" />
+      <workItem from="1601367864285" duration="594000" />
+      <workItem from="1601386563261" duration="595000" />
+      <workItem from="1601455903810" duration="6888000" />
+      <workItem from="1601628886442" duration="604000" />
+      <workItem from="1601886258430" duration="3907000" />
+      <workItem from="1601925464582" duration="2488000" />
+      <workItem from="1602064334383" duration="595000" />
+      <workItem from="1602151096623" duration="1485000" />
+      <workItem from="1602236259366" duration="605000" />
+      <workItem from="1602283570698" duration="596000" />
+      <workItem from="1602491885673" duration="293000" />
+      <workItem from="1602492457521" duration="780000" />
+      <workItem from="1602522310306" duration="484000" />
+      <workItem from="1602579386550" duration="595000" />
+      <workItem from="1602580760426" duration="594000" />
+      <workItem from="1602669694965" duration="597000" />
+      <workItem from="1602758160825" duration="594000" />
+      <workItem from="1602792756926" duration="1204000" />
+      <workItem from="1602838759591" duration="1214000" />
+      <workItem from="1603022787262" duration="2876000" />
+      <workItem from="1604352728118" duration="1706000" />
+      <workItem from="1604399281550" duration="2853000" />
+      <workItem from="1604483396939" duration="601000" />
+      <workItem from="1604571125316" duration="595000" />
+      <workItem from="1604927871036" duration="690000" />
+      <workItem from="1605088421122" duration="2689000" />
+      <workItem from="1605174396334" duration="1292000" />
+      <workItem from="1605694237386" duration="594000" />
+      <workItem from="1606125899003" duration="696000" />
+      <workItem from="1606212327039" duration="594000" />
+      <workItem from="1606299666825" duration="1232000" />
+      <workItem from="1606473902216" duration="597000" />
+      <workItem from="1606731911025" duration="594000" />
+      <workItem from="1606816906439" duration="595000" />
+      <workItem from="1606906361362" duration="595000" />
+      <workItem from="1606991696260" duration="603000" />
+      <workItem from="1611744836030" duration="2376000" />
+      <workItem from="1611777745683" duration="3143000" />
+      <workItem from="1611827184836" duration="2319000" />
+      <workItem from="1612173390576" duration="2097000" />
+      <workItem from="1612223063956" duration="416000" />
+      <workItem from="1612261297340" duration="3453000" />
+      <workItem from="1612349267189" duration="2967000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding previous HR 6 days solution from 30 days">
+      <created>1588342263172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588342263172</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HR 7/30 days array solution">
+      <created>1588426728580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588426728580</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HR 8/30 days Maps and dictionary solution">
+      <created>1588440112140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588440112140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="HR 8/30 days Maps and dictionary solution">
+      <created>1588462349190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588462349190</updated>
+    </task>
+    <task id="LOCAL-00005" summary="HR 9/30 days recursion (factorial) solution">
+      <created>1588547484723</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588547484723</updated>
+    </task>
+    <task id="LOCAL-00006" summary="HR 10/30 days consecutive ones in binary solution">
+      <created>1588607535628</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588607535628</updated>
+    </task>
+    <task id="LOCAL-00007" summary="HR 8/30 days updated solution for dictionary">
+      <created>1588615230277</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588615230277</updated>
+    </task>
+    <task id="LOCAL-00008" summary="HR 11/30 days python solution for 2D arrays - Hourglass problem">
+      <created>1588680909705</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588680909705</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HR 12/30 days python solution for inheritance">
+      <created>1588793582321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588793582321</updated>
+    </task>
+    <task id="LOCAL-00010" summary="HR 13/30 days python solution for abstract class">
+      <created>1588871878667</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588871878667</updated>
+    </task>
+    <task id="LOCAL-00011" summary="HR 14/30 days python solution for scope">
+      <created>1588871926700</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588871926700</updated>
+    </task>
+    <task id="LOCAL-00012" summary="HR 15/30 days python solution for LinkedList">
+      <created>1588949694220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588949694220</updated>
+    </task>
+    <task id="LOCAL-00013" summary="HR 16/30 days python solution for Exception Handling">
+      <created>1588949719182</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588949719182</updated>
+    </task>
+    <task id="LOCAL-00014" summary="HR 17/30 days python solution for more exceptions">
+      <created>1589018818527</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589018818527</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HR 18/30 days python solution for stacks and queues">
+      <created>1589234064968</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589234064968</updated>
+    </task>
+    <task id="LOCAL-00016" summary="HR 19/30 days python solution for interfaces">
+      <created>1589237118088</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589237118088</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HR 20/30 days python solution for simple bubble sort">
+      <created>1589296400390</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589296400390</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HR 22/30 days python solution for height of BST">
+      <created>1589299384626</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589299384626</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HR 23/30 days python solution for level order traversal">
+      <created>1589401763259</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1589401763259</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HR 24/30 days python solution for more linked list">
+      <created>1589488300860</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1589488300860</updated>
+    </task>
+    <task id="LOCAL-00021" summary="HR 25/30 days python solution for running time complexity">
+      <created>1589541235184</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1589541235184</updated>
+    </task>
+    <task id="LOCAL-00022" summary="HR 26/30 days python solution for nested logic">
+      <created>1589635351206</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589635351206</updated>
+    </task>
+    <task id="LOCAL-00023" summary="HR 28/30 days python solution for RegEx, Patterns, and Intro to Databases">
+      <created>1589730871917</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589730871917</updated>
+    </task>
+    <task id="LOCAL-00024" summary="HR 26/30 days python solution for Nested logic">
+      <created>1589730892885</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589730892885</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adding HackerRank Python solution for Introduction to sets problem">
+      <created>1593124856624</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1593124856625</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adding HackerRank Python solution for Add Sets problem">
+      <created>1593184800530</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1593184800533</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adding HackerRank Python solution for Add Sets problem">
+      <created>1601463733830</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1601463733830</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adding HackerRank Python solution for Add Sets problem">
+      <created>1601544392991</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1601544392991</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adding HackerRank Python solution">
+      <created>1601893765332</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601893765332</updated>
+    </task>
+    <task id="LOCAL-00030" summary="hackerrank itertools.permutations">
+      <created>1602022175167</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602022175167</updated>
+    </task>
+    <task id="LOCAL-00031" summary="hackerrank python solution for polar coordinates">
+      <created>1604399407590</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1604399407590</updated>
+    </task>
+    <task id="LOCAL-00032" summary="hackerrank python solution for combinations with replacement">
+      <created>1605137319722</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605137319722</updated>
+    </task>
+    <task id="LOCAL-00033" summary="hackerrank python solution for Order dict">
+      <created>1605484313712</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605484313712</updated>
+    </task>
+    <task id="LOCAL-00034" summary="hackerrank python solution for merge the tools using Order dict">
+      <created>1611785126652</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1611785126652</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Set symmetric difference">
+      <created>1611964519491</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1611964519493</updated>
+    </task>
+    <task id="LOCAL-00036" summary="test">
+      <created>1612210882452</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1612210882452</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Set mutations">
+      <created>1612223246278</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1612223246278</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Check Subset hacker Rank">
+      <created>1612305067507</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1612305067507</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Python hacker rank solution for captains room">
+      <created>1612354866090</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1612354866090</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HR 16/30 days python solution for Exception Handling" />
+    <MESSAGE value="HR 17/30 days python solution for more exceptions" />
+    <MESSAGE value="HR 18/30 days python solution for stacks and queues" />
+    <MESSAGE value="HR 19/30 days python solution for interfaces" />
+    <MESSAGE value="HR 20/30 days python solution for simple bubble sort" />
+    <MESSAGE value="HR 22/30 days python solution for height of BST" />
+    <MESSAGE value="HR 23/30 days python solution for level order traversal" />
+    <MESSAGE value="HR 24/30 days python solution for more linked list" />
+    <MESSAGE value="HR 25/30 days python solution for running time complexity" />
+    <MESSAGE value="HR 26/30 days python solution for nested logic" />
+    <MESSAGE value="HR 28/30 days python solution for RegEx, Patterns, and Intro to Databases" />
+    <MESSAGE value="HR 26/30 days python solution for Nested logic" />
+    <MESSAGE value="Adding HackerRank Python solution for Introduction to sets problem" />
+    <MESSAGE value="Adding HackerRank Python solution for Add Sets problem" />
+    <MESSAGE value="Adding HackerRank Python solution" />
+    <MESSAGE value="hackerrank itertools.permutations" />
+    <MESSAGE value="hackerrank python solution for polar coordinates" />
+    <MESSAGE value="hackerrank python solution for combinations with replacement" />
+    <MESSAGE value="hackerrank python solution for Order dict" />
+    <MESSAGE value="hackerrank python solution for merge the tools using Order dict" />
+    <MESSAGE value="Set symmetric difference" />
+    <MESSAGE value="test" />
+    <MESSAGE value="Set mutations" />
+    <MESSAGE value="Check Subset hacker Rank" />
+    <MESSAGE value="Python hacker rank solution for captains room" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python hacker rank solution for captains room" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1612305516907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1612305516907" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612176128034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612176128034" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1612308333883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612308333883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1612308333883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612308333883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1612308333883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612308333883" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1612308333883">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612308333883" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1612305390781">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612305390781" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1612354868404">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1612354868404" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day18_StacksQueues.coverage" NAME="HR_Day18_StacksQueues Coverage Results" MODIFIED="1589234019541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day19_Interface.coverage" NAME="HR_Day19_Interface Coverage Results" MODIFIED="1589293018583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Permutations.coverage" NAME="Permutations Coverage Results" MODIFIED="1602022028490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_itertools" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day11_2DArray.coverage" NAME="HR_Day11_2DArray Coverage Results" MODIFIED="1588680401542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$PolarCoordinates.coverage" NAME="PolarCoordinates Coverage Results" MODIFIED="1604401156646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_math" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Combinations.coverage" NAME="Combinations Coverage Results" MODIFIED="1604401275913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_itertools" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day25_RunningTimeComplexity.coverage" NAME="HR_Day25_RunningTimeComplexity Coverage Results" MODIFIED="1589540762360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day16_StringsToInteger.coverage" NAME="HR_Day16_StringsToInteger Coverage Results" MODIFIED="1588949379622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day22_BST.coverage" NAME="HR_Day22_BST Coverage Results" MODIFIED="1589297564967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day14_Scope.coverage" NAME="HR_Day14_Scope Coverage Results" MODIFIED="1588871626445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day23_LevelOrderTraversal.coverage" NAME="HR_Day23_LevelOrderTraversal Coverage Results" MODIFIED="1589401195447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day24_MoreLinkedList4.coverage" NAME="HR_Day24_MoreLinkedList4 Coverage Results" MODIFIED="1589488118393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day17_MoreExceptions.coverage" NAME="HR_Day17_MoreExceptions Coverage Results" MODIFIED="1589013124684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Test.coverage" NAME="Test Coverage Results" MODIFIED="1603025535550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_collections" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day9_Recursion.coverage" NAME="HR_Day9_Recursion Coverage Results" MODIFIED="1588546976920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1588342086149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Check_Subset.coverage" NAME="Check_Subset Coverage Results" MODIFIED="1612304493099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_sets" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day26_NestedLogic.coverage" NAME="HR_Day26_NestedLogic Coverage Results" MODIFIED="1589634860388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day20_Sorting.coverage" NAME="HR_Day20_Sorting Coverage Results" MODIFIED="1589296181335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HC_Day0.coverage" NAME="HC_Day0 Coverage Results" MODIFIED="1588342150220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$TheMinionGame.coverage" NAME="TheMinionGame Coverage Results" MODIFIED="1601891772016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_strings" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day13_AbstractClass.coverage" NAME="HR_Day13_AbstractClass Coverage Results" MODIFIED="1588868450496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day7.coverage" NAME="HR_Day7 Coverage Results" MODIFIED="1588344550508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day10_Binary.coverage" NAME="HR_Day10_Binary Coverage Results" MODIFIED="1588607375975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day8_Dictionary.coverage" NAME="HR_Day8_Dictionary Coverage Results" MODIFIED="1588614999962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day15_LinkedList.coverage" NAME="HR_Day15_LinkedList Coverage Results" MODIFIED="1588941503600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day12_Inhertiance.coverage" NAME="HR_Day12_Inhertiance Coverage Results" MODIFIED="1588790022407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Merge_the_tools.coverage" NAME="Merge_the_tools Coverage Results" MODIFIED="1611783548817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_strings" />
+  </component>
+</project>
