@@ -23,174 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5b7f028-8b46-41e0-96b1-88e407b8b053" name="Default Changelist" comment="Python hacker rank solution for captains room">
-      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-1/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/0_mean_mode_median.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/0_weighted_mean.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/1_interquartile_range.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/1_quartile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/1_standard_deviation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/3_binomial_distribution_I.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/4_binomial_distribution_II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_days_of_Statistics/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day0.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HC_Day6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day10_Binary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day11_2DArray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day12_Inhertiance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day13_AbstractClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day14_Scope.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day15_LinkedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day16_StringsToInteger.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day17_MoreExceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day18_StacksQueues.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day19_Interface.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day20_Sorting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day22_BST.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day23_LevelOrderTraversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day24_MoreLinkedList4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day25_RunningTimeComplexity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day26_NestedLogic.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day27_Testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day28_RegEx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day29_BitwiseAnd.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day7_Arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day8_Dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HR_Day9_Recursion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/HelloWorld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank30DaysChallenge/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_FindPercentage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_List_Comprehension.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_NestedList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_RunnerUpSpeed.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/Python_Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_basicdatatypes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/any_or_all.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/athlete_sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/ginortS.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/input.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/python_evaluation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_builtins/zipped.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_classes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_classes/dealing_with_complex_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_classes/find_the_torisonal_angle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_closures_decorators/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_closures_decorators/decorators2_name_directory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_closures_decorators/standardize_mob_using_decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/Counter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/OrderDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/default_dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/deque.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/namedtuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/piling_up.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_collections/word_order.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_dateandtime/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_dateandtime/calender.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_dateandtime/time_delta.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_debugging/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_debugging/default_arguments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_debugging/words_score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_errorsandexceptions/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_errorsandexceptions/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_errorsandexceptions/incorrect_regex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_functionals/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_functionals/map_lambda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_functionals/reduce_function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_functionals/validate_email_with_filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Arithmetic_Operators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Python_Division.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Python_Leapyear.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Python_Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Python_Print.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/Python_if_else.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_introduction/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/Combinations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/Combinations_W_Rep.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/Permutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/compress_the_string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/iterables_and_iterators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_itertools/maximise_it.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/PolarCoordinates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/find_angle_mbc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/integers_come_in_all_sizes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/mod_divmod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/mod_power_mod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/triangle_quest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_math/triangle_quest_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/array_mathematics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/concatenate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/dot_cross.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/eye_identity.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/floor_ceil_rint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/inner_outer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/lin_alg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/mean_var_std.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/min_max.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/polynomials.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/shape_reshape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/sum_prod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/transpose_flatten.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_numpy/zeros_ones.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/detect_floating_point_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/detect_html_tags_attribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/findall_finditer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/group_groups_groupdict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/hex_color_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/html_parser_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/html_parser_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/matrix_script.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/re_split.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/re_start_end.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/regex_substitution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_credit_card_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_parsing_email_addresses.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_phone_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_postal_code.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_roman_numerals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_regex_parsing/validating_uid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/AddSets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/Check_Subset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/Difference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/DiscardRemovePop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/IntroductionToSets.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/No_Idea.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/SetUnion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/Set_Mutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/Set_Sym_Difference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/SymmetricDifference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/The_Captains_Room.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_sets/check_strict_superset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/AlphabetRangoli.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/Capitalize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/DesignerDoorMat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/FindString.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/Merge_the_tools.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/Mutations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/StringFormatting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/StringSplitandJoin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/StringValidators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/SwapCase.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/TextAlignment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/TextWrap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/TheMinionGame.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/WhatsYourName.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_strings/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_xml/XML1_Find_the_score.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_xml/XML2_Max_depth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hr_python_practices_xml/__init__.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/cyclicrotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/oddoccurancesinarray.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +73,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Python.binarygap">
+  <component name="RunManager" selected="Python.oddoccurancesinarray">
     <configuration name="Check_Subset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPythonPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,28 +88,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_sets/Check_Subset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Combinations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPythonPractices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_itertools" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_itertools/Combinations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,28 +140,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PolarCoordinates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPythonPractices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_math" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_math/PolarCoordinates.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="binarygap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPythonPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -371,21 +162,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="cyclicrotation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/cyclicrotation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="oddoccurancesinarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/oddoccurancesinarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.HackerRankPythonPractices" />
-      <item itemvalue="Python.PolarCoordinates" />
-      <item itemvalue="Python.Combinations" />
       <item itemvalue="Python.Merge_the_tools" />
       <item itemvalue="Python.Check_Subset" />
       <item itemvalue="Python.binarygap" />
+      <item itemvalue="Python.cyclicrotation" />
+      <item itemvalue="Python.oddoccurancesinarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oddoccurancesinarray" />
+        <item itemvalue="Python.cyclicrotation" />
         <item itemvalue="Python.binarygap" />
         <item itemvalue="Python.Check_Subset" />
         <item itemvalue="Python.Merge_the_tools" />
-        <item itemvalue="Python.Combinations" />
-        <item itemvalue="Python.PolarCoordinates" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +299,7 @@
       <workItem from="1612223063956" duration="416000" />
       <workItem from="1612261297340" duration="3453000" />
       <workItem from="1612349267189" duration="2967000" />
-      <workItem from="1635604219715" duration="322000" />
+      <workItem from="1635604219715" duration="7391000" />
     </task>
     <task id="LOCAL-00001" summary="Adding previous HR 6 days solution from 30 days">
       <created>1588342263172</created>
@@ -786,10 +621,53 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python hacker rank solution for captains room" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1635631327015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1635631327015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1635631327015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1635631327015">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1635630737416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1635630737416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1635630737416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1635630737416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1635604543217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1635604543217" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/oddoccurancesinarray.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day18_StacksQueues.coverage" NAME="HR_Day18_StacksQueues Coverage Results" MODIFIED="1589234019541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
@@ -797,10 +675,12 @@
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Permutations.coverage" NAME="Permutations Coverage Results" MODIFIED="1602022028490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_itertools" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day11_2DArray.coverage" NAME="HR_Day11_2DArray Coverage Results" MODIFIED="1588680401542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$PolarCoordinates.coverage" NAME="PolarCoordinates Coverage Results" MODIFIED="1604401156646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_math" />
+    <SUITE FILE_PATH="coverage/my_programming_practices$oddoccurancesinarray.coverage" NAME="oddoccurancesinarray Coverage Results" MODIFIED="1635631327015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Combinations.coverage" NAME="Combinations Coverage Results" MODIFIED="1604401275913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_itertools" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day25_RunningTimeComplexity.coverage" NAME="HR_Day25_RunningTimeComplexity Coverage Results" MODIFIED="1589540762360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
-    <SUITE FILE_PATH="coverage/my_programming_practices$binarygap.coverage" NAME="binarygap Coverage Results" MODIFIED="1635604440619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-1" />
+    <SUITE FILE_PATH="coverage/my_programming_practices$binarygap.coverage" NAME="binarygap Coverage Results" MODIFIED="1635604562697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-1" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day16_StringsToInteger.coverage" NAME="HR_Day16_StringsToInteger Coverage Results" MODIFIED="1588949379622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/my_programming_practices$cyclicrotation.coverage" NAME="cyclicrotation Coverage Results" MODIFIED="1635614995448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day22_BST.coverage" NAME="HR_Day22_BST Coverage Results" MODIFIED="1589297564967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day14_Scope.coverage" NAME="HR_Day14_Scope Coverage Results" MODIFIED="1588871626445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day23_LevelOrderTraversal.coverage" NAME="HR_Day23_LevelOrderTraversal Coverage Results" MODIFIED="1589401195447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
