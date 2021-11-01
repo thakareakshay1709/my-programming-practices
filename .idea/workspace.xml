@@ -23,8 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5b7f028-8b46-41e0-96b1-88e407b8b053" name="Default Changelist" comment="Python hacker rank solution for captains room">
-      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/cyclicrotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/oddoccurancesinarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-3-time-complexity/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-3-time-complexity/frogjmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/fromriverone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/permcheck.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,29 +76,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Python.oddoccurancesinarray">
-    <configuration name="Check_Subset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPythonPractices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_sets" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_sets/Check_Subset.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.permcheck">
     <configuration name="HackerRankPythonPractices" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HackerRankPythonPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,28 +91,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Merge_the_tools" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="HackerRankPythonPractices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hr_python_practices_strings" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hr_python_practices_strings/Merge_the_tools.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,6 +143,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="fromriverone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/fromriverone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="oddoccurancesinarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="HackerRankPythonPractices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,21 +187,43 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="permcheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HackerRankPythonPractices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/permcheck.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.HackerRankPythonPractices" />
-      <item itemvalue="Python.Merge_the_tools" />
-      <item itemvalue="Python.Check_Subset" />
       <item itemvalue="Python.binarygap" />
       <item itemvalue="Python.cyclicrotation" />
       <item itemvalue="Python.oddoccurancesinarray" />
+      <item itemvalue="Python.fromriverone" />
+      <item itemvalue="Python.permcheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.permcheck" />
+        <item itemvalue="Python.fromriverone" />
         <item itemvalue="Python.oddoccurancesinarray" />
         <item itemvalue="Python.cyclicrotation" />
         <item itemvalue="Python.binarygap" />
-        <item itemvalue="Python.Check_Subset" />
-        <item itemvalue="Python.Merge_the_tools" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +302,7 @@
       <workItem from="1612223063956" duration="416000" />
       <workItem from="1612261297340" duration="3453000" />
       <workItem from="1612349267189" duration="2967000" />
-      <workItem from="1635604219715" duration="7391000" />
+      <workItem from="1635604219715" duration="14206000" />
     </task>
     <task id="LOCAL-00001" summary="Adding previous HR 6 days solution from 30 days">
       <created>1588342263172</created>
@@ -621,38 +624,38 @@
     <option name="LAST_COMMIT_MESSAGE" value="Python hacker rank solution for captains room" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1635631327015">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1635631327015">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1635631327015">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1635722843048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1635631327015">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1635722843048" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635631327015" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1635630737416">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1635630737416">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1635630737416">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1635630737416">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1635722843063">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635630737416" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1635722843063" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1635604543217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -665,6 +668,16 @@
           <url>file://$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-2-arrays/oddoccurancesinarray.py</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/fromriverone.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements/permcheck.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -684,6 +697,7 @@
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day22_BST.coverage" NAME="HR_Day22_BST Coverage Results" MODIFIED="1589297564967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day14_Scope.coverage" NAME="HR_Day14_Scope Coverage Results" MODIFIED="1588871626445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day23_LevelOrderTraversal.coverage" NAME="HR_Day23_LevelOrderTraversal Coverage Results" MODIFIED="1589401195447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/my_programming_practices$fromriverone.coverage" NAME="fromriverone Coverage Results" MODIFIED="1635676635791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day24_MoreLinkedList4.coverage" NAME="HR_Day24_MoreLinkedList4 Coverage Results" MODIFIED="1589488118393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day17_MoreExceptions.coverage" NAME="HR_Day17_MoreExceptions Coverage Results" MODIFIED="1589013124684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Test.coverage" NAME="Test Coverage Results" MODIFIED="1603025535550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_collections" />
@@ -691,6 +705,7 @@
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1588342086149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$Check_Subset.coverage" NAME="Check_Subset Coverage Results" MODIFIED="1612304493099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_sets" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day26_NestedLogic.coverage" NAME="HR_Day26_NestedLogic Coverage Results" MODIFIED="1589634860388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
+    <SUITE FILE_PATH="coverage/my_programming_practices$permcheck.coverage" NAME="permcheck Coverage Results" MODIFIED="1635722015278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility-practices/lesson-solutions/lesson-4-counting-elements" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HR_Day20_Sorting.coverage" NAME="HR_Day20_Sorting Coverage Results" MODIFIED="1589296181335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$HC_Day0.coverage" NAME="HC_Day0 Coverage Results" MODIFIED="1588342150220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank30DaysChallenge" />
     <SUITE FILE_PATH="coverage/HackerRankPythonPractices$TheMinionGame.coverage" NAME="TheMinionGame Coverage Results" MODIFIED="1601891772016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hr_python_practices_strings" />
