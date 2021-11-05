@@ -1,5 +1,5 @@
 def solution_2(A):  # solution with partial test cases passed and performance is 100%
-    A.sort(reverse=True)  # sorting in decending order
+    A.sort(reverse=True)  # lesson-6-sorting in decending order
 
     if len(A) == 1:  # edge case
         return 1

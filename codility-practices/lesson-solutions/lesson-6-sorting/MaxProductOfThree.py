@@ -13,7 +13,7 @@ def solution_1(A):  # gives 44% score
 def solution(A):
     A.sort()
     n = len(A)
-    obvious = A[n - 1] * A[n - 2] * A[n - 3]  # after sorting this might be the largest product
+    obvious = A[n - 1] * A[n - 2] * A[n - 3]  # after lesson-6-sorting this might be the largest product
     max_product = max(obvious, A[0] * A[1] * A[n - 1])  # combination of first two (if first two are negative) and last
     # one
     return max_product
