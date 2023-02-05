@@ -1,3 +1,4 @@
+#
 def solution(N):
     _bin = bin(N)[2:].strip('0').split('1')
     return len(max(_bin))
