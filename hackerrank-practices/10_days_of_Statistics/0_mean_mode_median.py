@@ -1,4 +1,4 @@
-# Enter your code hre. Read input from STDIN. Print output to STDOUT
+# Enter your code here. Read input from STDIN. Print output to STDOUT
 # import statistics
 # from
 # no = input()
