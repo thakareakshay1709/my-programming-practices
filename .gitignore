@@ -2,7 +2,6 @@
 ;;directories to ignore
 .idea/*
 D:\Programming\Python\HackerRankPythonPractices\.idea/
-venv
 .DS_Store
 leetcode/.DS_Store
 .idea/HackerRankPythonPractices.iml
