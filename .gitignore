@@ -1,5 +1,10 @@
 # Default ignored files
 ;;directories to ignore
-.idea/
+.idea/*
 D:\Programming\Python\HackerRankPythonPractices\.idea/
 venv
+.DS_Store
+leetcode/.DS_Store
+.idea/HackerRankPythonPractices.iml
+.idea/misc.xml
+.idea/workspace.xml
