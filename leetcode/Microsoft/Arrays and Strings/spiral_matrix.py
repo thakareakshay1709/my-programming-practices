@@ -28,7 +28,6 @@ class Solution:
                 # traverse from down to up
                 for r in range(down-1, up, -1):
                     spiral_elements.append(matrix[r][left])
-
             left += 1
             right -= 1
             up += 1
